@@ -32,6 +32,12 @@ const routs =[
         component : <Student/>,
         path : '/student'
     },
+    {
+        name:'student',
+        key : 'student',
+        component : <Student/>,
+        path : '/student'
+    },
 ]
 export default routs;
 
